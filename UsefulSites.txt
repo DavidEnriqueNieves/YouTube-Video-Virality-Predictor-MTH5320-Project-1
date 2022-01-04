@@ -1,0 +1,5 @@
+https://kb.objectrocket.com/elasticsearch/how-to-return-all-documents-from-an-index-in-elasticsearch
+
+https://stackoverflow.com/questions/18953499/youtube-api-to-fetch-all-videos-on-a-channel
+
+https://www.googleapis.com/youtube/v3/search?key={AIzaSyA1SM4CYbNsXKOmC7ErlAWuB-9dlValnr0}&channelId={UCSUu1lih2RifWkKtDOJdsBA}&part=snippet,id&order=date&maxResults=20

@@ -1,0 +1,82 @@
+
+list_1 = [
+"UC0VVYtw21rg2cokUystu2Dw",
+"UC1bwliGvJogr7cWK0nT2Eag",  
+"UC5QgPBgPMM6gSV7hQcHgOhg",  
+"UC5v2QgY2D5tlu8uws23MG4Q",  
+"UC6Fr4tBYuLHgPkL2tEkTrSA",  
+"UC7_YxT-KID8kRbqZo7MyscQ",  
+"UC8aG3LDTDwNR1UQhSn9uVrw",  
+"UC9PD3EIAA-vtGLZgYXG3q0A",  
+"UCam8T03EOFBsNdR0thrFHdQ"
+]
+
+list_2 = [
+"UCBXN0W_SEgbcLWjB5ycK5Ug",  
+"UCcAbV5NEHxbhdVKHirkoObA",  
+"UCcG-OmRBrHqiwI91ZbhZt2w",  
+"UC-cnbLlplnXA4oc7rR21qzg",  
+"UC_cvTMeip9po2hZdF3aBXrA",  
+"UCcZUc0Wbt4EPVktbB8FrugQ",  
+"UCdKuE7a2QZeHPhDntXVZ91w",  
+"UCEPuItFWOOJ2o5hTu65NlEg",  
+"UCEuN0IauvXNTn6KhP9AVJVw"
+]
+
+list_3 = [
+"UCfgh3Ul_dG6plQ7rzuOLx-w",  
+"UCFR2oaNj02WnXkOgLH0iqOA",  
+"UCHdMK5Ef2El8KbD3L_WgANg",  
+"UC-hSZv6tzHEUqrUB6mgXvIA",  
+"UCI3DTtB-a3fJPjKtQ5kYHfA",  
+"UCIPPMRA040LQr5QPyJEbmXA",  
+"UCj0sKQk9qjiIfNH22ZBWpxw",  
+"UCj1J3QuIftjOq9iv_rr7Egw",  
+"UCjlWEMQ2jbTy_2nWq8sEliw"
+]
+
+list_6 = [
+"UCK0_slr6cUzYFL_dsiuW7Xw",  
+"UCk8-Skcx2jfBsOtHgmzKKhg",  
+"UCKQEfXR_uflA4vDtJHmEIIQ",  
+"UCkxctb0jr8vwa4Do6c6su0Q",  
+"UCL3r1JcBQM1cmyMhMFm6XkQ",  
+"UC-lHJZR3Gqxm24_Vd_AJ5Yw",  
+"UCn4BNPzJDyxkoBgXRuOFeyA",  
+"UCNAz5Ut1Swwg6h6ysBtWFog",  
+"UCO1YGhO4dFcVxzYBU1oTVdQ"
+]
+
+
+list_5 = [
+"UCoIXnB865l9Ex9zs4OIXTdQ", 
+"UCPbGiUt4Yu8EsaFM-KAmgjg", 
+"UCPgj-dhrdajrJDP2WQjgPvQ", 
+"UCPYJR2EIu0_MJaDeSGwkIVw", 
+"UCqg3BHb31w2h77vFuTFmp2w", 
+"UCQSEAbOs6vsJfy7WN7iYaGQ", 
+"UCRGfxiszv5dhqRLA-OpD6nQ", 
+"UCsM3qWjsbJr5Kt7_Q1ulLjg", 
+"UC-SpacLBhJEHbedPuU5QI3w"
+]
+
+
+list_7 = [
+"UCUdF4kyAKLyT1xYTjddW5_w",
+"UCuJyaxv7V-HK4_qQzNK_BXQ",
+"UCuK2rjMid48EA6XoQPe4PIA",
+"UCVFWJkN7L45x8gZTMXu2UWw",
+"UCw1SQ6QRRtfAhrN_cjkrOgA",
+"UCWzLmNWhgeh3h1j-M-Isy0g",
+"UCXGPGV90SPduyn9LVX9s7Kw",
+"UCxo56gzJQ_fhb6svPqTSewg",
+"UCyMy3i-BaVOmOwTZskm52Ew"
+]
+
+
+list_8 = [
+"UCYQ2ZdAFYep5-t91WFEdLog",
+"UCYVinkwSX7szARULgYpvhLw",
+"UCYzPXprvl5Y-Sf0g4vX-m6g",
+"UCzYfz8uibvnB7Yc1LjePi4g"
+]

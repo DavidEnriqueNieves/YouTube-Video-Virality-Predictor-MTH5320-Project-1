@@ -1,0 +1,27 @@
+</div>
+
+<ytd-metadata-row-container-renderer class="style-scope ytd-watch-metadata"><!--css-build:shady--><div id="always-shown" class="style-scope ytd-metadata-row-container-renderer"><ytd-rich-metadata-row-renderer class="style-scope ytd-metadata-row-container-renderer"><!--css-build:shady--><div id="contents" class="style-scope ytd-rich-metadata-row-renderer"><ytd-rich-metadata-renderer class="style-scope ytd-rich-metadata-row-renderer" component-style="RICH_METADATA_RENDERER_STYLE_BOX_ART"><!--css-build:shady--><a id="endpoint-link" class="yt-simple-endpoint style-scope ytd-rich-metadata-renderer" href="https://www.youtube.com/channel/UCQvWX73GQygcwXOTSf_VDVg">
+  <dom-if restamp="" class="style-scope ytd-rich-metadata-renderer"><template></template></dom-if>
+  
+    <div id="thumbnail" class="style-scope ytd-rich-metadata-renderer">
+      <yt-img-shadow class="style-scope ytd-rich-metadata-renderer no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="72"></yt-img-shadow>
+    </div>
+  <dom-if restamp="" class="style-scope ytd-rich-metadata-renderer"><template></template></dom-if>
+  <div id="text-container" class="style-scope ytd-rich-metadata-renderer">
+    <div id="title" class="style-scope ytd-rich-metadata-renderer">Minecraft</div>
+    <div id="subtitle" class="style-scope ytd-rich-metadata-renderer">
+      2011
+    </div>
+    <ytd-badge-supported-renderer id="badges" class="style-scope ytd-rich-metadata-renderer" disable-upgrade="" hidden="">
+    </ytd-badge-supported-renderer>
+    <div id="call-to-action" class="style-scope ytd-rich-metadata-renderer">
+      <div class="style-scope ytd-rich-metadata-renderer">Browse game</div>
+      <yt-icon class="style-scope ytd-rich-metadata-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g mirror-in-rtl="" class="style-scope yt-icon"><path d="M9.4,18.4l-0.7-0.7l5.6-5.6L8.6,6.4l0.7-0.7l6.4,6.4L9.4,18.4z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+    </div>
+  </div>
+  <div id="information-button-container" class="style-scope ytd-rich-metadata-renderer" hidden=""></div>
+</a>
+</ytd-rich-metadata-renderer><ytd-rich-metadata-renderer class="style-scope ytd-rich-metadata-row-renderer" component-style="RICH_METADATA_RENDERER_STYLE_TOPIC"><!--css-build:shady--><a id="endpoint-link" class="yt-simple-endpoint style-scope ytd-rich-metadata-renderer" href="https://www.youtube.com/gaming">
+  <dom-if restamp="" class="style-scope ytd-rich-metadata-renderer"><template></template></dom-if>
+  
+    <div id="thumbnail" class="style-scope ytd-rich-metadata-renderer">
